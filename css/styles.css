@@ -1,0 +1,36 @@
+.container {
+    font-size: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0px;
+    background-image: url(../images/die.jpg);
+    background-size: cover;
+        color: #bc07b3;
+}
+
+#displaydice{
+  font-size: 10em;
+  padding: 0;
+  margin: 0;
+  height: 163px;
+}
+
+#main{
+
+    text-align: center;
+}
+
+.instructions{
+  text-align: center;
+  padding-top: 10em;
+}
+
+#gamingArea {
+    display: none;
+    width: 80%;
+    margin: 10px auto;
+    font-size: 22.5px;
+}
+.newGame:hover {
+    color: #bcb307;
+}
