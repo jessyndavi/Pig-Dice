@@ -19,3 +19,7 @@ div.dice{
          margin:5px;
 }
 
+.instructions{
+  text-align: center;
+  padding-top: 10em;
+}
